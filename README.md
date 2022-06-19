@@ -3,11 +3,13 @@
 
 :computer: I am a Full-Stack developer seeking to improve my skills and learning new technologies.
 
+## My skills: Html | CSS | Javascript | React | Node | Solidity | Web3 | PHP | MySQL 
+
 ### Me working
 ![image](https://user-images.githubusercontent.com/1161052/174464774-90512746-78a4-46b6-a34d-d44e37d1cff2.png)
 
-My skills: Html | CSS | Javascript | React | Node | Solidity | Web3 | PHP | MySQL 
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=williambydeng&layout=compact&langs_count=7&theme=dracula)
 <div>
 <a href="https://github.com/williambydeng">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williambydeng&layout=compact&langs_count=7&theme=dracula"/>
